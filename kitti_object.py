@@ -853,7 +853,7 @@ if __name__ == "__main__":
         "-d",
         "--dir",
         type=str,
-        default="data/object",
+        default="/raid/rajat/datasets/kitti/object",
         metavar="N",
         help="input  (default: data/object)",
     )
