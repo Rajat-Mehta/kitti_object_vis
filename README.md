@@ -25,14 +25,14 @@ kitti
 
 ## Requirements
 
-  - opencv
-```
-conda install opencv -c menpo
-```
-  - mayavi, vtk, PIL
 
 ```
-pip install mayavi vtk pillow
+pip install opencv-python
+pip install pyqt5
+pip install pillow
+pip install vtk
+pip install mayavi
+pip install scipy
 # or
 conda install mayavi vtk pillow
 ```
