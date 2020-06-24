@@ -33,8 +33,7 @@ pip install pillow
 pip install vtk
 pip install mayavi
 pip install scipy
-# or
-conda install mayavi vtk pillow
+pip install matplotlib
 ```
 
 ## Visualization
